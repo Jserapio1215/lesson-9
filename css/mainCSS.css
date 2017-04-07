@@ -1,0 +1,37 @@
+body {
+	font-family: Georgia, serif;
+}
+#mainContent {
+	margin: 0px auto;
+    max-width: 1366px;
+}
+#titleContainer {
+	text-align: center;
+}
+.tomPic {
+	width: 100%;
+}
+.smHeader {
+	font-size: 25px;
+	text-align: center;
+}
+.reserveForm, .existForm {
+	float: left;
+	border: 1px solid black;
+	padding:20px;
+	width: 40%;
+	margin: 0px 20px;
+}
+.gMaps {
+	clear: both;
+	padding-top: 15px;
+}
+.gMaps iframe {
+	width: 100%;
+}
+#footerArea {
+	padding: 0px 80px;
+}
+.custReview {
+	float: right;
+}
